@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "html": null,
+    "htmlLines": [
+      "<div class=\"withCustomBacground profil\">",
+      "    </div>",
+      "     <div class=\"row\">",
+
+      "        <div class=\"d-md-none col-3 picture-zone\">",
+      "            <div class=\"item-media covage\"><img src=\"assets/images/team/circle.png\" alt=\"\" /></div>",
+      "        </div>",
+      "        <div class=\"col-md-12 col-9 picture-zone\">",
+      "                 <h6>Jean Luc Emmanuel VERHANNEMAN</h6>",
+      "        </div>",
+      "        <div class=\"d-none d-md-block col-md-3 col-lg-4 picture-zone\">",
+      "            <div class=\"item-media covage\"><img src=\"assets/images/team/circle.png\" alt=\"\" /></div>",
+      "        </div>",
+      "        <div class=\"col-12 col-sm-12 col-md-9 col-lg-8\">",
+
+      "             <div class=\"item-content\">",
+
+      "                 <p>Fullstack developer, I have high interests in new technologies and solid frameworks. I aim the gain of experience to be more confident and embrace any type of contract.<br></p>",
+      "                 <p class=\"small-text color-main\">Fullstack developer</p>",
+      "                 <div class=\"author-social fs-14\">",
+      "                     <!--a.fa.fa-facebook.color-icon(href='#')-->",
+      "                     <!--a.fa.fa-twitter.color-icon(href='#')--><a class=\"fa fa-github color-icon\" target=\"blank\" href=\"https:\"github.com/ManuUseGitHub\"></a><a class=\"fa fa-codepen color-icon\" target=\"blank\" href=\"https:\"codepen.io/manuusepen\"></a><a class=\"fa fa-linkedin color-icon\" target=\"blank\" href=\"https:\"www.linkedin.com/in/emmanuel-verhanneman-5a9381ab/\"></a></div>",
+      "             </div>",
+      "         </div>",
+      "     </div>"
+    ]
+  },
+  {
+    "id": 2,
+    "html": null,
+    "htmlLines": [
+      "<div class=\"withCustomBacground diplomed\">",
+      "    </div>",
+      "    <div class=\"row\">",
+
+      "        <div class=\"d-md-none col-3 picture-zone\">",
+      "            <div class=\"item-media covage\"><img src=\"assets/images/helmo.png\" alt=\"\" /></div>",
+      "        </div>",
+      "        <div class=\"col-md-12 col-9 picture-zone\">",
+      "                <h6>Graduated IT bachelor in 2020</h6>",
+      "        </div>",
+      "        <div class=\"d-none d-md-block col-md-3 col-lg-4 picture-zone\">",
+      "            <div class=\"item-media covage\"><img src=\"assets/images/helmo.png\" alt=\"\" /></div>",
+      "        </div>",
+      "        <div class=\"col-12 col-sm-12 col-md-9 col-lg-8\">",
+      "            <div class=\"item-content\">",
+      "                <p>After lots of efforts, I finally succeed. That was long, not easy, but in the end I learned so much. For me this is the start of a great adventure that has already started! <br></p>",
+      "                <p class=\"small-text color-main\">From HELMo Guillemens Campus at Liège</p>",
+      "            </div>",
+      "        </div>",
+      "</div>"
+    ]
+  },
+  {
+    "id": 3,
+    "html": null,
+    "htmlLines": [
+      "<div class=\"withCustomBacground graphdesign\">",
+      "    </div>",
+      "    <div class=\"row\">",
+      "        <div class=\"d-md-none col-3 picture-zone\">",
+      "            <div class=\"item-media covage\"><img src=\"assets/images/FAVPNG_inkscape-vector-graphics-editor-logo_hqb02Uza.png\" alt=\"\" /></div>",
+      "        </div>",
+      "        <div class=\"col-md-12 col-9 picture-zone\">",
+      "                <h6>A part developer a part designer</h6>",
+      "        </div>",
+      "        <div class=\"d-none d-md-block col-md-3 col-lg-4 picture-zone\">",
+      "            <div class=\"item-media covage\"><img src=\"assets/images/FAVPNG_inkscape-vector-graphics-editor-logo_hqb02Uza.png\" alt=\"\" /></div>",
+      "        </div>",
+      "        <div class=\"col-12 col-sm-12 col-md-9 col-lg-8\">",
+      "            <div class=\"item-content\">",
+      "                <p style=\"color: lightgoldenrodyellow;\">Sometimes asked for making a logo, I grab my design tools and create what logo or what email footer the client needs. Logos are made in SVG. I just take 50€ per production but every update is free of extra charge.<br></p>",
+      "                <p class=\"small-text color-main\">Inkskape | The Gimp | Afinity</p>",
+      "            </div>",
+      "        </div>",
+      "</div>"
+    ]
+  }
+]

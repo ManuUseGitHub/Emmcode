@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "ease": 90,
+    "preferedOrder": 6,
+    "img": "feather.png",
+    "label": "Graphics",
+    "skills": [
+      "The Gimp / photoshop",
+      "SVG (Inkskape)",
+      "Afinity photo/design",
+      "SVG Logo"
+    ],
+    "complements": ["Logo : 10+", "Mailfooters : 4", "Designs : 100+"]
+  },
+  {
+    "id": 2,
+    "ease": 85,
+    "preferedOrder": 1,
+    "img": "cloud.png",
+    "label": "Web Dev",
+    "skills": [
+      "Vue.js",
+      "Angular 8",
+      "PHP 7, Laravel 5",
+      "PHP Debug",
+      "Javascript ES6",
+      "jQuery & ajax",
+      "Typescript",
+      "Gulp & Webpack",
+      "animations",
+      "SVG",
+      "SASS",
+      "Less",
+      "Stylus",
+      "pug/jade",
+      "JSON"
+    ],
+    "complements": ["SVG Manipulation : 4", "Gulp usage : 3"]
+  },
+  {
+    "id": 3,
+    "ease": 75,
+    "preferedOrder": 2,
+    "img": "java.png",
+    "label": "Java",
+    "skills": [
+      "javaFX",
+      "java Swing",
+      "JSP/JSF",
+      "JEE REST",
+      "Junit",
+      "JPA/Hibernate",
+      "serialize / unserialize",
+      "TCP / UDP",
+      ".jar files"
+    ],
+    "complements": ["JSF websites : 2", "applications : 50+"]
+  },
+  {
+    "id": 4,
+    "ease": 75,
+    "preferedOrder": 5,
+    "img": "database.png",
+    "label": "Database",
+    "skills": ["UML", "MERISE", "SQL"],
+    "complements": ["Databases : 20+"]
+  },
+  {
+    "id": 5,
+    "ease": 60,
+    "preferedOrder": 3,
+    "img": "visualstudio.png",
+    "label": ".NET",
+    "skills": [
+      "li .NET C#",
+      "Linq",
+      "ASP.NET MVC",
+      "MSTest",
+      "Entity Framework",
+      ".exe files",
+      "CSV"
+    ],
+    "complements": ["Mono Games : 2", "websites : 2"]
+  },
+  {
+    "id": 6,
+    "ease": 55,
+    "preferedOrder": 4,
+    "img": "android.png",
+    "label": "Mobile",
+    "skills": [
+      "Android Java",
+      "Android Kotlin",
+      "Responsiveness",
+      "HTTP request",
+      "Recycled activity",
+      "push Notifications",
+      "application settings",
+      "Gradle"
+    ],
+    "complements": ["Android App : 2"]
+  },
+  {
+    "id": 7,
+    "ease": 40,
+    "preferedOrder": 6,
+    "img": "source.png",
+    "label": "Source Control",
+    "skills": ["GIT", "BitBucket", "Source tree", "Git Lab", "Mercurial"],
+    "complements": []
+  },
+  {
+    "id": 8,
+    "ease": 35,
+    "preferedOrder": 6,
+    "img": "rocketbox.png",
+    "label": "Other",
+    "skills": [
+      "Linux",
+      ".bat",
+      "python",
+      "perl",
+      "powershel",
+      "C",
+      "XML",
+      "TeamWork",
+      "RedMine"
+    ],
+    "complements": []
+  }
+]
