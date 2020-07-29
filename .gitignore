@@ -165,6 +165,8 @@ msbuild.wrn
 # Visual Studio 2015
 .vs/
 
+/wwwroot
+
 # Angular
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
